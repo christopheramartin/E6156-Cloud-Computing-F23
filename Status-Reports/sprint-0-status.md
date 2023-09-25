@@ -9,8 +9,7 @@ Spring 0 / Task 1
 
 ## Clone and Modify the Starter Project
 
-- Place a screen capture of your directory below. Display the structure in a terminal window, PyCharm, file explorer
-or any other mechanism.
+- Below is a screen capture of my directory on PyCharm.
 
 | <img src="./1-clone.png"> |
 |:-----------------------------------:|
@@ -18,8 +17,7 @@ or any other mechanism.
 
 ## Execute the Starter Project
 
-You can choose any formats for the screen capture as long as it shows your project executing. My simple example shows
-and execution window and browser side-by-side.
+Below you will find my project executing. The execution window and browser are side-by-side.
 
 | <img src="./2-execute.png"> |
 |:-----------------------------------:|
@@ -28,7 +26,7 @@ and execution window and browser side-by-side.
 
 ## Create Your Own GitHub Project
 
-Make a copy of the project and create a project in GitHub. Show the project.
+Below you'll see that I made a copy of the project and created a project in GitHub.
 
 | <img src="./3-make.png"> |
 |:------------------------:|
@@ -37,13 +35,13 @@ Make a copy of the project and create a project in GitHub. Show the project.
 
 ## Deploy and Test Project on AWS
 
-Show the information about your VM through the console.
+Below you'll see my VM through the console.
 
 | <img src="./4-deploy.png"> |
 |:-----------------------------:|
 |        __AWS Console__        | 
 
-Show the application running in the EC2 terminal and browser.
+Finally, below you'll see my copied application running in the EC2 terminal and browser.
 
 | <img src="./5-test.png"> |
 |:-----------------------------:|
