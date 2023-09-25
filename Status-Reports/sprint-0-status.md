@@ -1,15 +1,10 @@
 # COMSE6156 - Topics in SW Engineering: Cloud Computing<br>Sprint 0 Status Report
 
-Christopher A. Martin
-
-UNI: cam2405
-
-Fall 2023
-
-Dr. Daniel Ferguson
-
-Cloud Computing
-
+Christopher A. Martin  
+UNI: cam2405  
+Fall 2023  
+Dr. Daniel Ferguson  
+Cloud Computing  
 Spring 0 / Task 1
 
 ## Clone and Modify the Starter Project
